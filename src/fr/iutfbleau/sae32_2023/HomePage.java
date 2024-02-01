@@ -6,7 +6,6 @@ import java.awt.*;
  * Elle fournit une interface utilisateur pour accéder aux différentes fonctionnalités de l'application,
  * comme le tableur lui-même et l'option de sortie.
  *
- * @author [Baptiste BLANCHON, Ayoub AMMARA & Samet DURAN]
  * @version 1.0
  */
 public class HomePage extends JFrame {
