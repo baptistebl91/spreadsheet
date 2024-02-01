@@ -4,7 +4,6 @@ import java.util.HashSet;
  * NumberNode est une sous-classe concrète de Node qui représente un nombre dans un arbre de syntaxe abstraite (AST).
  * Ce type de nœud est utilisé pour stocker et évaluer des valeurs numériques dans le contexte de l'AST.
  *
- * @author [Baptiste BLANCHON, Ayoub AMMARA & Samet DURAN]
  * @version 1.0
  */
 public class NumberNode extends Node {
