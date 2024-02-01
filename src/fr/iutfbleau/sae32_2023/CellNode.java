@@ -4,7 +4,6 @@ import java.util.HashSet;
  * CellNode représente un nœud dans un arbre de syntaxe abstraite (AST) qui fait référence à une cellule d'un tableur.
  * Il est utilisé pour évaluer la valeur de cette cellule dans le contexte de l'AST.
  *
- * @author [Baptiste BLANCHON, Ayoub AMMARA & Samet DURAN]
  * @version 1.0
  */
 public class CellNode extends Node {
