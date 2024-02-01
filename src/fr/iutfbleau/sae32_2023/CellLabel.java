@@ -5,7 +5,6 @@ import java.awt.*;
  * CellLabel étend JLabel, c'est conçu pour représenter visuellement l'état d'une cellule de tableur.
  * Elle affiche différents arrière-plans et bordures en fonction de l'état de la formule de la cellule associée.
  *
- * @author [Baptiste BLANCHON, Ayoub AMMARA & Samet DURAN]
  * @version 1.0
  */
 
