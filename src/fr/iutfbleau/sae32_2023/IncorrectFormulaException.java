@@ -4,7 +4,6 @@
  * Cette exception est typiquement levée lors de la validation ou de l'évaluation de formules dans un tableur ou
  * un système similaire.
  *
- * @author [Baptiste BLANCHON, Ayoub AMMARA & Samet DURAN]
  * @version 1.0
  */
 
