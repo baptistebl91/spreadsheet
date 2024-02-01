@@ -7,7 +7,6 @@ import java.util.HashSet;
  * FormulaBarListener est un ActionListener qui réagit aux actions effectuées sur la barre de formule.
  * Il traite la saisie de l'utilisateur dans la barre de formule et met à jour la cellule sélectionnée en conséquence.
  *
- * @author [Baptiste BLANCHON, Ayoub AMMARA & Samet DURAN]
  * @version 1.0
  */
 
