@@ -8,7 +8,6 @@ import java.util.LinkedList;
  * * et permet la référence à d'autres cellules dans une grille. Elle utilise une expression préfixée pour évaluer
  * * les formules et détecter les erreurs comme les références circulaires ou les formules mal formées.
  *
- * @author [Baptiste BLANCHON, Ayoub AMMARA & Samet DURAN]
  * @version 1.0
  */
 
