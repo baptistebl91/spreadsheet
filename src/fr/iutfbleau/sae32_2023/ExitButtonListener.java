@@ -5,7 +5,6 @@ import java.awt.event.ActionListener;
  * ExitButtonListener est un ActionListener qui gère l'action de sortie de l'application.
  * Lorsqu'un événement est déclenché, cette classe exécute l'action de fermeture de l'application.
  *
- * @author [Baptiste BLANCHON, Ayoub AMMARA & Samet DURAN]
  * @version 1.0
  */
 public class ExitButtonListener implements ActionListener {
