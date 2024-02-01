@@ -2,7 +2,6 @@
  * La classe CellOperations fournit des méthodes statiques pour effectuer la conversion entre les références de
  * cellules et leurs coordonnées correspondantes dans un tableur.
  *
- * @author [Baptiste BLANCHON, Ayoub AMMARA & Samet DURAN]
  * @version 1.0
  */
 
