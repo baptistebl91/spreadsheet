@@ -2,7 +2,6 @@
  * Main est la classe par défaut pour notre "Petit Tableur".
  * Elle contient la méthode main, qui est le point d'entrée de l'application.
  *
- * @author [Baptiste BLANCHON, Ayoub AMMARA & Samet DURAN]
  * @version 1.0
  */
 
