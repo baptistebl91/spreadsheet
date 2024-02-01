@@ -6,7 +6,6 @@ import java.awt.event.ActionListener;
  * Elle est conçue pour écouter les événements de clic sur un bouton et déclencher
  * un changement de vue dans l'interface utilisateur.
  *
- * @author [Baptiste BLANCHON, Ayoub AMMARA & Samet DURAN]
  * @version 1.0
  */
 
