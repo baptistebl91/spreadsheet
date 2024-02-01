@@ -4,7 +4,6 @@ import java.util.HashSet;
  * Node est une classe abstraite représentant un nœud dans un arbre de syntaxe abstraite (AST).
  * Les nœuds de cet arbre sont utilisés pour évaluer des expressions ou des formules dans le contexte de l'application.
  *
- * @author [Baptiste BLANCHON, Ayoub AMMARA & Samet DURAN]
  * @version 1.0
  */
 
