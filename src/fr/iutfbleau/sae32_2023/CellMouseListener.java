@@ -7,7 +7,6 @@ import java.awt.event.MouseEvent;
  * CellMouseListener étend MouseAdapter pour gérer les interactions de la souris avec les cellules d'un tableur.
  * Il modifie l'apparence des cellules lors du survol et du clic, et met à jour la barre de formule correspondante.
  *
- * @author [Baptiste BLANCHON, Ayoub AMMARA & Samet DURAN]
  * @version 1.0
  */
 public class CellMouseListener extends MouseAdapter {
