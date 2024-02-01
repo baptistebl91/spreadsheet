@@ -3,7 +3,6 @@
  * être calculée.
  * Cette exception peut être levée en cas d'erreurs dans la formule ou de problèmes lors de l'évaluation de celle-ci.
  *
- * @author [Baptiste BLANCHON, Ayoub AMMARA & Samet DURAN]
  * @version 1.0
  */
 
