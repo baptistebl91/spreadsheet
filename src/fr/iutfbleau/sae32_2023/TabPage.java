@@ -8,7 +8,6 @@ import java.util.Observer;
  * La classe TabPage représente un panneau d'onglet dans une interface utilisateur de type feuille de calcul.
  * Elle implémente l'interface Observer pour suivre les changements dans les cellules de la feuille.
  *
- * @author [Baptiste BLANCHON, Ayoub AMMARA & Samet DURAN]
  * @version 1.0
  */
 
