@@ -6,7 +6,6 @@ import java.awt.event.ComponentEvent;
  * FormulaBarComponentAdapter est un adaptateur de composants spécialement conçu pour gérer les événements
  * liés à l'affichage d'une barre de formule dans une interface utilisateur.
  *
- * @author [Baptiste BLANCHON, Ayoub AMMARA & Samet DURAN]
  * @version 1.0
  */
 
