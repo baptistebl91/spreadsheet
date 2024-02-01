@@ -5,7 +5,6 @@ import java.util.Observable;
  * Elle étend la classe Observable, permettant à d'autres composants de recevoir des notifications
  * lors de la modification de la formule de la cellule.
  *
- * @author [Baptiste BLANCHON, Ayoub AMMARA & Samet DURAN]
  * @version 1.0
  */
 public class Cell extends Observable {
