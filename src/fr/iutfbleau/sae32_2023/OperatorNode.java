@@ -5,7 +5,6 @@ import java.util.HashSet;
  * syntaxe abstraite (AST).
  * Elle contient des références à des nœuds gauche et droit et applique un opérateur arithmétique à leurs évaluations.
  *
- * @author [Baptiste BLANCHON, Ayoub AMMARA & Samet DURAN]
  * @version 1.0
  */
 
